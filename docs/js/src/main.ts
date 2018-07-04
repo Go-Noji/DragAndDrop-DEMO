@@ -1,4 +1,4 @@
-import {Sortable} from './draganddrop.ts';
+import {Sortable} from './DragAndDrop.ts';
 
 window.addEventListener('DOMContentLoaded', () =>
 {
